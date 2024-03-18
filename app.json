@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "credoconstructiona",
-    "slug": "credoconstructiona",
+    "name": "credoconstruction",
+    "slug": "credoconstruction",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

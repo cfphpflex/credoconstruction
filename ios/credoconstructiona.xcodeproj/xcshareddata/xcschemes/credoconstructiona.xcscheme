@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "credoconstructiona.app"
-               BlueprintName = "credoconstructiona"
-               ReferencedContainer = "container:credoconstructiona.xcodeproj">
+               BuildableName = "credoconstruction.app"
+               BlueprintName = "credoconstruction"
+               ReferencedContainer = "container:credoconstruction.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "credoconstructionaTests.xctest"
-               BlueprintName = "credoconstructionaTests"
-               ReferencedContainer = "container:credoconstructiona.xcodeproj">
+               BuildableName = "credoconstructionTests.xctest"
+               BlueprintName = "credoconstructionTests"
+               ReferencedContainer = "container:credoconstruction.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "credoconstructiona.app"
-            BlueprintName = "credoconstructiona"
-            ReferencedContainer = "container:credoconstructiona.xcodeproj">
+            BuildableName = "credoconstruction.app"
+            BlueprintName = "credoconstruction"
+            ReferencedContainer = "container:credoconstruction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "credoconstructiona.app"
-            BlueprintName = "credoconstructiona"
-            ReferencedContainer = "container:credoconstructiona.xcodeproj">
+            BuildableName = "credoconstruction.app"
+            BlueprintName = "credoconstruction"
+            ReferencedContainer = "container:credoconstruction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

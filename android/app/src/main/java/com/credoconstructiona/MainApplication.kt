@@ -1,4 +1,4 @@
-package com.credoconstructiona
+package com.credoconstruction
 
 import android.app.Application
 import android.content.res.Configuration
