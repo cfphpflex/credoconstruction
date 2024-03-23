@@ -1,6 +1,9 @@
 # credoconstruction
 construction belief
 
+## start project 
+npx expo start
+
 expo init credoconstruction
 sudo rm -rf credoconstruction
 expo init credoconstruction
