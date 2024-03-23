@@ -2,6 +2,7 @@
 construction belief
 
 ## start project 
+npm install
 npx expo start
 
 expo init credoconstruction
